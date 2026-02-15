@@ -263,7 +263,7 @@ footer{
 
     <div class="socials">
       <a href="https://facebook.com/melvinjaycanoy" target="_blank">Facebook</a>
-      <a href="https://www.instagram.com/itsm3lv_asusual" target="_blank">Instagram</a>
+      <a href="https://www.instagram.com/melvinjay_29?igsh=MTV2cjlheDQ5a2pjeQ==" target="_blank">Instagram</a>
       <a href="https://t.me/melvx1" target="_blank">Telegram</a>
       <a href="https://wa.me/639762268109" target="_blank">WhatsApp</a>
     </div>
